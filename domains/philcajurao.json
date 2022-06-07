@@ -1,0 +1,11 @@
+{
+    "description": "Phil's .is-a.dev domain is for my portfolio",
+    "repo": "https://github.com/philcajurao/philcajurao.github.io",
+    "owner": {
+      "username": "philcajurao",
+      "email": "philcajurao@gmail.com"
+    },
+    "record": {
+       "CNAME": "philcajurao.github.io"
+    }
+  }
